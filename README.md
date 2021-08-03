@@ -4,6 +4,7 @@ a basic site that has hyperlinks to other gaming sites and servers.!
 ### Made by stelth
 
 Note that none of these sites are mine and i have no conenctions with them
+
 ...................................................................................................................................................................
 
 **Friday Night Funkin**
@@ -25,7 +26,9 @@ Note that none of these sites are mine and i have no conenctions with them
 [Friday Night Funkin vs Sans](https://snipergaming888.github.io/sans/)
 
 [Friday Night Funkin vs Static](https://snipergaming888.github.io/static/)
+
 ...................................................................................................................................................................
+
 **Undertale**
 
 [Sans Boss Fight](https://jcw87.github.io/c2-sans-fight/)
@@ -36,4 +39,5 @@ Note that none of these sites are mine and i have no conenctions with them
 
 [Even More Sans Fight But Realistic](https://baddy1000.github.io/Sans-Reloaded/) (Use Z)
 ...................................................................................................................................................................
+
 Adding More Soon!
