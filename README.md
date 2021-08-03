@@ -17,6 +17,6 @@ Note that none of these sites are mine and i have no conenctions with them
 [Friday NIght Funkin vs Zardy](https://snipergaming888.github.io/zardy/)
 
 [Salty's Sunday Night](https://snipergaming888.github.io/saltyssundaynight/) (**full mod**)
- (
+ 
 [Starcatcher](https://snipergaming888.github.io/starcatcher/) (**full mod**)
 
