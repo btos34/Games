@@ -20,3 +20,7 @@ Note that none of these sites are mine and i have no conenctions with them
  
 [Starcatcher](https://snipergaming888.github.io/starcatcher/) (**full mod**)
 
+[Friday Night Funkin vs Sans](https://snipergaming888.github.io/sans/)
+
+[Friday Night Funkin vs Static](https://snipergaming888.github.io/static/)
+
