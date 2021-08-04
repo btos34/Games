@@ -3,7 +3,7 @@ a basic site that has hyperlinks to other gaming sites and servers.!
 
 ### Made by stelth
 
-Note that none of these sites are mine and i have no conenctions with them
+Note that none of these sites are mine and i have no connections with them
 
 ...................................................................................................................................................................
 
@@ -90,4 +90,7 @@ Note that none of these sites are mine and i have no conenctions with them
 [A Meh Review](https://user-images.githubusercontent.com/88212436/128101549-40b7202a-9d73-4051-9c81-ac576f7fac6a.png) (Main antagonist I guess)
 
 [xya yes](https://media.discordapp.net/attachments/869725446558863380/872476093049876480/unknown.png) (buzz)
+
+[An Issue But Good Review]((https://user-images.githubusercontent.com/88212436/128254757-7775df14-a7e9-4d55-b4e2-da4989591a1f.png)
+)
 
