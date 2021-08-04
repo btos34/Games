@@ -9,6 +9,8 @@ Note that none of these sites are mine and i have no conenctions with them
 
 **Friday Night Funkin**
 
+*Kell The Roach Said Hello*
+
 [Friday Night Funkin Week 7](https://snipergaming888.github.io/week7/) (**ripped by hyperwood**)
 
 [Friday Night Funkin Tricky Mod](https://snipergaming888.github.io/tricky/)
@@ -42,3 +44,15 @@ Note that none of these sites are mine and i have no conenctions with them
 ...................................................................................................................................................................
 
 Adding More Soon!
+
+--Reviews--
+
+[Friend On DC](https://user-images.githubusercontent.com/88212436/128097999-f6f7dd87-d3f4-43d7-afc6-263641c0d8c5.png) (Koruto)
+
+[Classmate From School](https://media.discordapp.net/attachments/869705988125642812/872252158072991834/unknown.png?width=400&height=149) (Kevin)
+
+[Another DC Friend](https://user-images.githubusercontent.com/88212436/128097759-6e079a3a-ad93-4cf2-979a-9338e91ccfc3.png) (RatWithZeHat)
+
+[It Took Me A Hassle For This One](https://user-images.githubusercontent.com/88212436/128097973-1748b2e6-338e-4ce4-b4e5-e58abbd36395.png) (kellyv)
+
+[A Meh Review](https://user-images.githubusercontent.com/88212436/128101549-40b7202a-9d73-4051-9c81-ac576f7fac6a.png) (Main antagonist I guess)
