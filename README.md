@@ -1,33 +1,22 @@
 ## Welcome To The Gaming Hyperlink Page!
 a basic site that has hyperlinks to other gaming sites and servers.!
 
-### Made by stelth
+### Made by you neighborhood loud guy
 
 Note that none of these sites are mine and i have no connections with them
+
+### Watch One Piece!
 
 ...................................................................................................................................................................
 
 **Friday Night Funkin**
 
-*Kell The Roach Said Hello*
+**Sorry but the friday night section is under reconstruction, please use another site**
+-creator
+In The Mean Time Try This small fnf mod from scratch!
 
-[Friday Night Funkin Week 7](https://snipergaming888.github.io/week7/) (**ripped by hyperwood**)
+[fnf vs Noob](https://scratch.mit.edu/projects/481304668/)
 
-[Friday Night Funkin Tricky Mod](https://snipergaming888.github.io/tricky/)
-
-[Friday NIght Funkin vs Tabi](https://snipergaming888.github.io/tabi/)
-
-[Friday Night Funkin vs Shaggy](https://snipergaming888.github.io/shaggy/)
-
-[Friday NIght Funkin vs Zardy](https://snipergaming888.github.io/zardy/)
-
-[Salty's Sunday Night](https://snipergaming888.github.io/saltyssundaynight/) (**full mod**)
- 
-[Starcatcher](https://snipergaming888.github.io/starcatcher/) (**full mod**)
-
-[Friday Night Funkin vs Sans](https://snipergaming888.github.io/sans/)
-
-[Friday Night Funkin vs Static](https://snipergaming888.github.io/static/)
 
 ...................................................................................................................................................................
 
@@ -94,3 +83,4 @@ Note that none of these sites are mine and i have no connections with them
 [An Issue But Good Review]((https://user-images.githubusercontent.com/88212436/128254757-7775df14-a7e9-4d55-b4e2-da4989591a1f.png)
 )
 
+*Kell da roach said hi*
