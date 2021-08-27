@@ -36,7 +36,7 @@ In The Mean Time Try This small fnf mod from scratch!
 
 **Games On Scratch**
 
-[Terraris Stamped](https://scratch.mit.edu/projects/322341152/)
+[Terraria Stamped](https://scratch.mit.edu/projects/322341152/)
 
 [Super Mario Bros Level Pack 2020](https://scratch.mit.edu/projects/334936001/)
 
