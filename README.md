@@ -7,8 +7,6 @@ Note that none of these sites are mine and i have no connections with them
 
 ### Watch One Piece!
 
-[kokopuff???](https://user-images.githubusercontent.com/88212436/131047159-3f7e9ec5-5536-4586-b1e5-6c854295f2a4.png)
-
 ...................................................................................................................................................................
 
 **Friday Night Funkin**
